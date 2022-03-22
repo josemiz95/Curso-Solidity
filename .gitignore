@@ -1,0 +1,16 @@
+03-Votacion/bin/solc-output-compile-all.json
+03-Votacion/bin/votacion.abi
+03-Votacion/bin/votacion.bin
+03-Votacion/bin/votacion.json
+03-Votacion/bin/votaciones-solc-output.json
+04-token/bin/ERC20-solc-output.json
+04-token/bin/ERC20Basic.abi
+04-token/bin/ERC20Basic.bin
+04-token/bin/ERC20Basic.json
+04-token/bin/IERC20.abi
+04-token/bin/IERC20.bin
+04-token/bin/IERC20.json
+05-Sistema de pagos/bin/disney-solc-output.json
+05-Sistema de pagos/bin/Disney.abi
+05-Sistema de pagos/bin/Disney.bin
+05-Sistema de pagos/bin/Disney.json

@@ -1,2 +1,0 @@
-# Curso-Solidity
-Learning Solidity
